@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"passed","test_login.TestLogin.test_log4","1",""
+"passed","test_login.TestLogin.test_log3","0",""
+"passed","test_login.TestLogin.test_log2","1",""
+"passed","test_login.TestLogin.test_log1","3",""
